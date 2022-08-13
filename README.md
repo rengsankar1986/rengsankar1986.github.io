@@ -1,6 +1,6 @@
 # rengsankar1986.github.io
 
-# Welcome to [**Scott's** Portfolio](https://scottbreitbach.github.io/)
+# Welcome to [**Renganathan's** Portfolio](https://rengsankar1986.github.io/)
 
 I am a Biologist and budding Data Scientist versed in Machine Learning and Data Visualization using Python, R, Power BI
 
