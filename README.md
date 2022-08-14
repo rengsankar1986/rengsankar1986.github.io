@@ -7,25 +7,25 @@ I am a Biologist and budding Data Scientist versed in Machine Learning and Data 
 ## Portfolio
 
 Here's some of my selected work:
-1. **[Cornhusker Football and Public Safety](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Football-Safety)**  
-    Use R for analysis of crime and traffic incidents in Lincoln, NE on Cornhusker game weekends compared to non-game weekends.
-1. **[Nebraska Breweries](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/NE-Breweries)**  
+1. **[Marketing Campaign for Banking Products](https://github.com/rengsankar1986/DSC680/blob/main/Project1/SriRSankar_DSC%20680%20Project%20Milestone%202_Project1.pdf)**  
+    Use Python for Analyzing the success of different Banking products and its successes.
+1. **[Web Scraping - Airline Ticket Price Analysis](https://github.com/rengsankar1986/DSC680/tree/main/Project%202)**  
     Use Python for scraping tables on the web to collect data. Cleaning data and combining using SQL joins. Standardization of addresses and phone numbers, and geographic mapping of brewery locations.
-1. **[Microbe Identification](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Microbe-Identification)**  
+1. **[Microbe Identification]()**  
     Use of Machine Learning in Python for automated classification of microbes from an imbalanced dataset to aid in rapid identification of microbes.
-1. **[Airline Safety Infographic](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Airline-Infographic)**  
+1. **[Airline Safety Infographic]()**  
     Infographic demonstrating the safety of flight as a travel option, from the perspective of an airline customer.
-1. **[Immigration Ancestry and Income](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Income-Ancestry)**  
+1. **[Immigration Ancestry and Income]()**  
     Python analysis to determine whether having grandparents born outside of the US impacts the income of an individual or family.
-1. **[Bean Classification using ML](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Beans-Classification)**  
+1. **[Bean Classification using ML]()**  
     Multiclass classification of 7 bean species based on measurements. Includes EDA, visualization, standardization, feature selection, and evaluation of several models, including hyperparameter tuning.
-1. **[Airline Safety Dashboard](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Airline-Dashboard)**  
+1. **[Airline Safety Dashboard]()**  
     Use of Power BI for interactive dashboard showing summary of airline flights and accidents over time and by flight type, aircraft type, and location.
-1. **[Stroke Prediction](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Stroke-Prediction)**  
+1. **[Stroke Prediction]()**  
     Binary classification in Python to predict stroke in patients using Machine Learning with patient data. Includes multiple model evaluation, hyperparameter tuning, and model ensembles.
-1. **[Housing Price Modeling](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Housing-Prices)**  
+1. **[Housing Price Modeling]()**  
     Use R for analysis of several predictive models of housing prices using groups of features generated previously through feature selection methods in Python.
-1. **[AI Text Generation](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Text-Generation)**  
+1. **[AI Text Generation]()**  
     Implement LSTM text generator with Tensorflow and Keras using Hitchiker's Guide to the Galaxy corpus.
 
 
