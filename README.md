@@ -2,7 +2,7 @@
 
 # Welcome to [**Renganathan's** Portfolio](https://rengsankar1986.github.io/)
 
-I am a Biologist and budding Data Scientist versed in Machine Learning and Data Visualization using Python, R, Power BI
+I am an ETL, Data warehousing and budding Data Scientist versed in Machine Learning and Data Visualization using Python, R, Power BI
 
 ## Portfolio
 
