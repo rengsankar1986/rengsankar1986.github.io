@@ -1,0 +1,1 @@
+This project is about analyzing the reviews from Different DisneyLand destinations and providing improvements for the betterment and appropriate marketing to lure more crowd into its various locations.
