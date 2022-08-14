@@ -10,7 +10,7 @@ Here's some of my selected work:
 1. **[Marketing Campaign for Banking Products](https://github.com/rengsankar1986/rengsankar1986.github.io/tree/main/Portfolio%20-%20Projects/Bank-Marketing%20Campaign)**  
     Use Python for Analyzing the success of different Banking products and its successes.
 1. **[Web Scraping - Airline Ticket Price Analysis](https://github.com/rengsankar1986/rengsankar1986.github.io/tree/main/Portfolio%20-%20Projects/Airline%20Ticket%20Price%20Analysis)**  
-    Use Python for scraping tables on the web to collect data. Cleaning data and combining using SQL joins. Standardization of addresses and phone numbers, and geographic mapping of brewery locations.
+    Use Python for scraping tables on the web to collect data. Cleaning data and combining using SQL joins. End Output will provide detailed price statistics and will enable the end user to book airline tickets at the lowest price possible.
 1. **[Airline Marketing Dashboard](https://github.com/rengsankar1986/rengsankar1986.github.io/tree/main/Portfolio%20-%20Projects/Airline%20Dashboard)**  
     Data Presentation and Visualization using R and Power BI for analyzing Airline Marketing Campaign.
 1. **[Airline Safety Infographic](https://github.com/rengsankar1986/rengsankar1986.github.io/tree/main/Portfolio%20-%20Projects/Airline-Infographic)**  
